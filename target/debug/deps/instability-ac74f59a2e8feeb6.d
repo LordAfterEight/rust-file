@@ -1,0 +1,8 @@
+/data/data/com.termux/files/home/rust-file/target/debug/deps/libinstability-ac74f59a2e8feeb6.so: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/item_like.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/stable.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/unstable.rs
+
+/data/data/com.termux/files/home/rust-file/target/debug/deps/instability-ac74f59a2e8feeb6.d: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/item_like.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/stable.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/unstable.rs
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/lib.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/item_like.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/stable.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instability-0.3.7/src/unstable.rs:
